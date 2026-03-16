@@ -5,10 +5,13 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🎀_frontend_lover-FBEAF0?style=flat-square"/>
-<img src="https://img.shields.io/badge/✨_creative_coder-EEEDFE?style=flat-square"/>
-<img src="https://img.shields.io/badge/🌱_always_learning-E1F5EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/🧠_AI_curious-FAECE7?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎀_frontend_lover-A855F7?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/✨_creative_coder-C084FC?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌱_always_learning-EC4899?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧠_AI_curious-A855F7?style=flat-square&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,37 +30,37 @@ Hi! I'm **Laura Vélez**, a **Software Engineering student** passionate about cr
 ## 💻 Tech Stack
 
 ### 🎀 Frontend
-![React](https://img.shields.io/badge/React-F9D8F0?style=for-the-badge&logo=react&logoColor=B045A0)
-![TypeScript](https://img.shields.io/badge/TypeScript-E8D5FF?style=for-the-badge&logo=typescript&logoColor=7C3AED)
-![JavaScript](https://img.shields.io/badge/JavaScript-FDE8D8?style=for-the-badge&logo=javascript&logoColor=C2410C)
-![HTML5](https://img.shields.io/badge/HTML5-F9D8F0?style=for-the-badge&logo=html5&logoColor=B045A0)
-![CSS3](https://img.shields.io/badge/CSS3-E8D5FF?style=for-the-badge&logo=css3&logoColor=7C3AED)
+![React](https://img.shields.io/badge/React-C084FC?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-A855F7?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-C084FC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌷 Backend
-![Laravel](https://img.shields.io/badge/Laravel-F9D8F0?style=for-the-badge&logo=laravel&logoColor=B045A0)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-E8D5FF?style=for-the-badge&logo=springboot&logoColor=7C3AED)
-![Django](https://img.shields.io/badge/Django-D1FAE5?style=for-the-badge&logo=django&logoColor=065F46)
-![Flask](https://img.shields.io/badge/Flask-FDE8D8?style=for-the-badge&logo=flask&logoColor=C2410C)
+![Laravel](https://img.shields.io/badge/Laravel-EC4899?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-C084FC?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-A855F7?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-EC4899?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-FDE8D8?style=for-the-badge&logo=openjdk&logoColor=C2410C)
-![Python](https://img.shields.io/badge/Python-E8D5FF?style=for-the-badge&logo=python&logoColor=7C3AED)
-![SQL](https://img.shields.io/badge/SQL-F9D8F0?style=for-the-badge&logo=postgresql&logoColor=B045A0)
+![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-EC4899?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lauvel19&show_icons=true&hide_border=true&border_radius=15&bg_color=FFF0F8&title_color=B045A0&icon_color=D946EF&text_color=7C3AED"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lauvel19&show_icons=true&hide_border=true&border_radius=15&bg_color=00000000&title_color=C084FC&icon_color=EC4899&text_color=A855F7"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauvel19&layout=compact&hide_border=true&border_radius=15&bg_color=FFF0F8&title_color=B045A0&text_color=7C3AED"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauvel19&layout=compact&hide_border=true&border_radius=15&bg_color=00000000&title_color=C084FC&text_color=A855F7"/>
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=lauvel19&hide_border=true&border_radius=15&background=FFF0F8&ring=D946EF&fire=F472B6&currStreakLabel=7C3AED&sideLabels=B045A0&dates=9CA3AF&currStreakNum=B045A0&sideNums=7C3AED"/>
+<img src="https://streak-stats.demolab.com?user=lauvel19&hide_border=true&border_radius=15&background=00000000&ring=C084FC&fire=EC4899&currStreakLabel=A855F7&sideLabels=C084FC&dates=888888&currStreakNum=C084FC&sideNums=A855F7"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,14 +87,12 @@ Hi! I'm **Laura Vélez**, a **Software Engineering student** passionate about cr
 
 <p align="center">
 💌 I love collaborating on creative tech projects
-</p>
-
-<p align="center">
+<br><br>
 ✨ <em>"Code with logic. Build with creativity."</em> ✨
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lauvel19&color=D946EF&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=lauvel19&color=C084FC&style=flat-square&label=profile+views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:D8B4FE,100:FFB7D5&height=120§ion=footer"/>
