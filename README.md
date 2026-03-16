@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:A084E8&height=220&section=header&text=Laura%20Gabriela%20💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:A084E8&height=220&section=header&text=Laura%20Gabriela%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=600&height=60&color=A084E8&lines=Software+Engineering+Student;Frontend+Developer;Creative+Coder+💜;React+%7C+Laravel+%7C+Spring+Boot"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=24&center=true&vCenter=true&width=600&height=60&color=A084E8&lines=Software+Engineering+Student;Frontend+Developer;Creative+Coder+;React+%7C+Laravel+%7C+Spring+Boot"/>
 
 </p>
 
