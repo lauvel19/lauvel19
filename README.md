@@ -10,7 +10,7 @@
 
 # 🌸 About Me
 
-Hi! I'm **Laura Gabriela** 💜  
+Hi! I'm **Laura Gabriela** 
 A **Software Engineering student** passionate about creating **beautiful and functional digital experiences**.
 
 🎀 I love building **modern frontend interfaces**  
@@ -20,7 +20,7 @@ A **Software Engineering student** passionate about creating **beautiful and fun
 
 ---
 
-# 💜 Tech Stack
+#  Tech Stack
 
 ### 🎀 Frontend
 
@@ -85,7 +85,7 @@ A **Software Engineering student** passionate about creating **beautiful and fun
 
 # 🌷 Featured Projects
 
-💜 **AI Agents with Flask**  
+ **AI Agents with Flask**  
 Intelligent agents and reasoning systems built with Python and Flask.
 
 🎀 **Ticket Management System**  
