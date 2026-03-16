@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:A084E8&height=220&section=header&text=Laura%20Gabriela%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:A084E8&height=220&section=header&text=Laura%20Vélez%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
 
@@ -10,7 +10,7 @@
 
 # 🌸 About Me
 
-Hi! I'm **Laura Gabriela** 
+Hi! I'm **Laura Vélez** 
 A **Software Engineering student** passionate about creating **beautiful and functional digital experiences**.
 
 🎀 I love building **modern frontend interfaces**  
